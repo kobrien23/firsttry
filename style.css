@@ -1,0 +1,30 @@
+.opaque{
+    opacity: .5;
+}
+
+.ontop1{
+margin-top: 10%;
+
+}
+
+.ontop2{
+margin-top: 15%;
+
+}
+
+.smaller{
+    height: 150px;
+    width: 100px;
+}
+
+.bckground{
+    background-image: url("urban-sky-buildings-city-64023.jpeg");
+    height: 100vh;
+background-size: 100vw;
+ opacity: .5;
+}
+.bicycle-bkgrnd {
+    background-color: #0033cc;
+    color: ghostwhite;
+    margin-top: -5%;
+}
